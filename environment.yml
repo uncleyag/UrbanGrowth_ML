@@ -1,0 +1,78 @@
+﻿name: urban-growth-mlprediction
+ 
+channels:
+  - conda-forge
+  - defaults
+ 
+dependencies:
+  # Core
+  - python=3.11
+  - numpy=1.26.*
+ 
+  # Earth Engine / geospatial
+  - earthengine-api
+  - geemap
+  - gdal
+  - rasterio
+  - fiona
+  - pyproj
+  - shapely
+  - geopandas
+  - xarray
+  - rioxarray
+  - pyogrio
+  - folium
+  - ipyleaflet
+  - contextily
+ 
+  # Image processing
+  - scikit-image
+  - opencv
+  - scipy
+ 
+  # Machine Learning
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - catboost
+  - joblib
+  - imbalanced-learn
+  - shap
+ 
+  # Data analysis
+  - pandas
+  - openpyxl
+  - pyarrow
+  - rasterstats
+  - exactextract
+ 
+  # Visualization
+  - matplotlib
+  - seaborn
+  - plotly
+ 
+  # Spatial statistics
+  - pysal
+  - esda
+  - libpysal
+ 
+  # Jupyter
+  - jupyterlab
+  - notebook
+  - ipywidgets
+  - ipykernel
+ 
+  # Utilities
+  - tqdm
+  - requests
+  - python-dotenv
+  - pyyaml
+ 
+  # API deployment
+  - fastapi
+  - uvicorn
+  - pydantic
+ 
+  - pip
+  - pip:
+          - geedim

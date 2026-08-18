@@ -9,11 +9,10 @@ urban expansion.
 ## Project Objectives
 
 1. Map urban extent from 2015–2025.
-2. Quantify annual urban expansion.
-3. Identify factors influencing urban growth.
-4. Train machine learning models to predict future urban growth.
-5. Produce urban growth and suitability maps.
-6. Develop project presentation, report, and/or dashboard.
+2. Identify factors influencing urban growth.
+3. Train machine learning models to predict future urban growth.
+4. Produce urban growth and suitability maps.
+5. Develop project presentation and report.
 
 ## Project Workflow
 

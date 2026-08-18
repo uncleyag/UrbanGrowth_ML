@@ -12,7 +12,11 @@ urban expansion.
 2. Identify factors influencing urban growth.
 3. Train machine learning models to predict future urban growth.
 4. Produce urban growth and suitability maps.
+<<<<<<< HEAD
 5. Develop project presentation, report, and/or dashboard.
+=======
+5. Develop project presentation and report.
+>>>>>>> 9583847cf253657a2ab0d2a65df0452dbd158aaa
 
 ## Project Workflow
 

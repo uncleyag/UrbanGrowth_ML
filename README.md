@@ -71,3 +71,6 @@ UrbanGrowth_ML/
 │
 ├── README.md
 └── requirements.txt
+
+Technical Flow 
+<img width="1792" height="1008" alt="Workflow2 (1)" src="https://github.com/user-attachments/assets/fc13567a-2fa5-4bd0-bcae-4bb4883d2f75" />
